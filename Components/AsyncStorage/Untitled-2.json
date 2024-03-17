@@ -1,0 +1,44 @@
+[
+    {
+        "firstName": "RRR",
+        "isSelected": true,
+        "lastName": "KKKK",
+        "password": "12345",
+        "username": "rohit"
+    },
+    {
+        "firstName": "GGGG",
+        "isSelected": true,
+        "lastName": "KKK",
+        "password": "12345",
+        "username": "gursha"
+    },
+    {
+        "firstName": "GGGG",
+        "isSelected": true,
+        "lastName": "KKK",
+        "password": "12345",
+        "username": "gursha"
+    },
+    {
+        "firstName": "Ramm",
+        "isSelected": true,
+        "lastName": "Jiii",
+        "password": "12345",
+        "username": "ram"
+    },
+    {
+        "firstName": "jjjjj",
+        "isSelected": true,
+        "lastName": "kkkk",
+        "password": "12345",
+        "username": "kkkk"
+    },
+    {
+        "firstName": "pppp",
+        "isSelected": true,
+        "lastName": "pppp",
+        "password": "12345",
+        "username": "pppp"
+    }
+]
