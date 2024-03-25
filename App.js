@@ -17,6 +17,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native'
 import Homepage from './Components/AsyncStorage/Homepage';
 import LoginPage from './Components/AsyncStorage/LoginPage';
+import Drawer from './Components/Navigation/Drawer';
 const Stack = createStackNavigator();
 
 
@@ -29,11 +30,7 @@ const App=()=>{
    
      
      <NavigationContainer>
-     <Stack.Navigator>
-      <Stack.Screen name="SignUp" component={SignUp} options={{headerShown: true}} />
-      <Stack.Screen name="Homepage" component={Homepage} options={{headerShown: true}} />
-      <Stack.Screen name="LoginPage" component={LoginPage} options={{headerShown: true}} />
-    </Stack.Navigator>
+    <Drawer/>
     </NavigationContainer>
     
      
